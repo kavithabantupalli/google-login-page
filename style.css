@@ -1,0 +1,83 @@
+.register-div{
+    float: left;
+    width: 45%;
+    border: 3px solid black;
+    margin: 0% 0% 5% 2%;
+    background-color: rgb(248, 248, 241);
+    padding: 10px;
+
+}
+.register-div h1{
+    text-align: center;
+    color: black;
+}
+.register-div input{
+    float: left;
+    width: 90%;
+    border: 3px solid black;
+    margin: 2% 0% 0% 5%;
+    font-size: 20px;
+    background-color: rgb(217, 222, 129);
+    color: black;
+    
+}
+/*.register-div button{
+    float: left;
+    width: 20%;
+    border: 3px solid black;
+    margin: 5% 0% 0% 38%;
+    font-size: 20px;
+    background-color: rgb(111, 124, 188);
+    color: black;
+}*/
+
+#reg-div{
+    float: left;
+    width: 20%;
+    border: 3px solid black;
+    margin: 5% 0% 0% 38%;
+    font-size: 20px;
+    background-color: rgb(111, 124, 188);
+    color: black;
+}
+
+.login-div{
+    float: left;
+    width: 45%;
+    border: 3px solid black;
+    margin: 3% 0% 5% 2%;
+    background-color: rgb(248, 248, 241);
+    padding: 10px;
+    
+
+}
+.login-div h1{
+    text-align: center;
+    color: black;
+}
+.login-div input{
+    float: left;
+    width: 90%;
+    border: 3px solid black;
+    margin: 2% 0% 0% 5%;
+    font-size: 20px;
+    background-color: rgb(217, 222, 129);
+    color:black;
+    
+}
+.login-div button{
+    float: left;
+    width: 20%;
+    border: 3px solid black;
+    margin: 5% 0% 0% 38%;
+    font-size: 20px;
+    background-color: rgb(185, 194, 242);
+    color: black;
+}
+
+
+body{
+    background-image: url(../images/image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
